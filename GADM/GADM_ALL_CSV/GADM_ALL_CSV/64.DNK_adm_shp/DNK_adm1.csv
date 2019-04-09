@@ -1,0 +1,6 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","HASC_1","CCN_1","CCA_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,64,"DNK","Denmark",1,"Hovedstaden","DK.HS",NA,"","Region","Region","","Capital"
+2,64,"DNK","Denmark",2,"Midtjylland","DK.MJ",NA,"","Region","Region","","Central Jutland"
+3,64,"DNK","Denmark",3,"Nordjylland","DK.ND",NA,"","Region","Region","","North Jutland"
+4,64,"DNK","Denmark",4,"Sjælland","DK.SL",NA,"","Region","Region","","Zealand"
+5,64,"DNK","Denmark",5,"Syddanmark","DK.SD",NA,"","Region","Region","","South Denmark"
